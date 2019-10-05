@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Example Author",
     author_email="joelhaasnoot@gmail.com",
-    description="A small example package",
+    description="An API wrapper for Mugsy Coffee Machines",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/joelhaasnoot/mugpy",
